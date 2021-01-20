@@ -1,0 +1,20 @@
+Scripting-interpreted, transpiled(ts-->js, jsx-->js)
+JS everything is an object
+fn --> object
+
+Primitive:
+1. number--Number 
+2. string
+3. boolean
+4. null
+5. undefined
+6. symbol - unique ids
+7. Bigint
+
+object
+Date
+Array
+
+
+es5 var, es6 let const
+
