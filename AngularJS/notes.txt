@@ -1,0 +1,15 @@
+modules: containers for different parts of the application, services, controllers, directives
+
+controllers:build a model for the view to display
+
+
+This is used to initialize application data. Sometimes you may require some local
+ data for your application, this can be done with the ng-init directive.
+
+
+Filter transforms data...formatting 
+
+$watch -- watches changes
+$digest -- chnages happens within angular context
+
+$apply

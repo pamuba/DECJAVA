@@ -18,3 +18,19 @@ Array
 
 es5 var, es6 let const
 
+
+DOM Methods
+DOM Elements
+DOM CSS
+DOM Events
+
+AngularJS... Angular 9, 10, 11,
+
+extend the HTML tags
+
+Typescript--Angular2...
+
+
+
+
+JQuery

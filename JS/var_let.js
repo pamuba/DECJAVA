@@ -15,16 +15,16 @@
 
 // // var funcs = [];
 
-// // for (var i = 0; i < 3; i++) {
-// //     funcs[i] = function(){
-// //         console.log("Value:"+i)
-// //     }
+for (var i = 0; i < 3; i++) {
+    funcs[i] = function(){
+        console.log("Value:"+i)
+    }
     
-// // }
+}
 
-// // for (var j = 0; j < 3; j++) {
-// //     funcs[j]();
-// // }
+for (var j = 0; j < 3; j++) {
+    funcs[j]();
+}
 
 // //Hoisting
 
